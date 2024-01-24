@@ -1,0 +1,118 @@
+Online KMS Server List [Updated Regularly]:
+Server # 01     fourdeltaone.net:1688
+Server # 02     147.134.1.42
+Server # 03     98.212.2.163
+
+Server # 04     kms.crackmywpa.com
+Server # 05     win81.no-ip.org
+Server # 06     whwebsolution.no-ip.org
+Server # 07     cckms.nccu.edu.tw
+Server # 08     lsu-kms.lsu.edu
+Server # 09     kms.isu.edu.tw
+Server # 10     uitsckms.uit.tufts.edu
+Server # 11     58.173.212.51
+Server # 12     vhk.3322.org
+Server # 13     140.133.45.107
+Server # 13     noair.strangled.net:1688
+
+** Any any server not responding try another one on the list. ***
+[Tested Working on 25 December 2014]
+
+====================================================================
+Windows 8.1 KMS Activation Command Prompt (Admin)
+slmgr.vbs -ipk <Windows KMS Client Setup Keys>
+slmgr.vbs <KMS Host Address>
+slmgr.vbs -ato
+====================================================================
+Office 2013 KMS Activation Command Prompt (Admin)
+cd\Program Files (X86)\Microsoft Office\Office15
+cscript OSPP.VBS /sethst:<KMS Host Address>
+cscript OSPP.VBS /act
+====================================================================
+Windows KMS Client Setup Keys:
+http://technet.microsoft.com/en-us/library/jj612867.aspx
+
+Operating system edition KMS Client Setup Key
+Windows 8.1 Professional
+GCRJD-8NW9H-F2CDX-CCM8D-9D6T9
+Windows 8.1 Professional N
+HMCNV-VVBFX-7HMBH-CTY9B-B4FXY
+Windows 8.1 Enterprise
+MHF9N-XY6XB-WVXMC-BTDCT-MKKG7
+Windows 8.1 Enterprise N
+TT4HM-HN7YT-62K67-RGRQJ-JFFXW
+Windows Server 2012 R2 Server Standard
+D2N9P-3P6X9-2R39C-7RTCD-MDVJX
+Windows Server 2012 R2 Datacenter
+W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9
+Windows Server 2012 R2 Essentials
+KNC87-3J2TX-XB4WP-VCPJV-M4FWM
+
+--------------------------------------------------------------
+Windows Server 2012 and Windows 8 Client Setup Keys
+Operating system edition KMS Client Setup Key
+Windows 8 Professional
+NG4HW-VH26C-733KW-K6F98-J8CK4
+Windows 8 Professional N
+XCVCF-2NXM9-723PB-MHCB7-2RYQQ
+Windows 8 Enterprise
+32JNW-9KQ84-P47T8-D8GGY-CWCK7
+Windows 8 Enterprise N
+JMNMF-RHW7P-DMY6X-RF3DR-X2BQT
+Windows Server 2012
+BN3D2-R7TKB-3YPBD-8DRP2-27GG4
+Windows Server 2012 N
+8N2M2-HWPGY-7PGT9-HGDD8-GVGGY
+Windows Server 2012 Single Language
+2WN2H-YGCQR-KFX6K-CD6TF-84YXQ
+Windows Server 2012 Country Specific
+4K36P-JN4VD-GDC6V-KDT89-DYFKP
+Windows Server 2012 Server Standard
+XC9B7-NBPP2-83J2H-RHMBY-92BT4
+Windows Server 2012 MultiPoint Standard
+HM7DN-YVMH3-46JC3-XYTG7-CYQJJ
+Windows Server 2012 MultiPoint Premium
+XNH6W-2V9GX-RGJ4K-Y8X6F-QGJ2G
+Windows Server 2012 Datacenter
+48HP8-DN98B-MYWDG-T2DCC-8W83P
+Windows 7 and Windows Server 2008 R2
+====================================================================
+Office 2013 Generic Volume License Keys for KMS:
+http://technet.microsoft.com/en-us/library/dn385360.aspx
+
+Office 2013 Professional Plus
+YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+Office 2013 Standard
+KBKQT-2NMXY-JJWGP-M62JB-92CD4
+Project 2013 Professional
+FN8TT-7WMH6-2D4X9-M337T-2342K
+Project 2013 Standard
+6NTH3-CW976-3G3Y2-JK3TX-8QHTT
+Visio 2013 Professional
+C2FG9-N6J68-H8BTJ-BW3QX-RM3B3
+Visio 2013 Standard
+J484Y-4NKBF-W2HMG-DBMJC-PGWR7
+Access 2013
+NG2JY-H4JBT-HQXYP-78QH9-4JM2D
+Excel 2013
+VGPNG-Y7HQW-9RHP7-TKPV3-BG7GB
+InfoPath 2013
+DKT8B-N7VXH-D963P-Q4PHY-F8894
+Lync 2013
+2MG3G-3BNTT-3MFW9-KDQW3-TCK7R
+OneNote 2013
+TGN6P-8MMBC-37P2F-XHXXK-P34VW
+Outlook 2013
+QPN8Q-BJBTJ-334K3-93TGY-2PMBT
+PowerPoint 2013
+4NT99-8RJFH-Q2VDH-KYG2C-4RD4F
+Publisher 2013
+PN2WF-29XG2-T9HJ7-JQPJR-FCXK4
+Word 2013
+6Q7VD-NX8JD-WJ2VH-88V73-4GBJ7
+====================================================================
+More Info & Download Links:
+http://www.nsaneforums.com/topic/183846-windows-81-build-9600-rtm-download-links-activation-via-phone-kms/
+http://www.nsaneforums.com/topic/147020-microsoft-office-2013-pro-plus-activation-via-phone-kms/
+november_ra1n
+====================================================================
